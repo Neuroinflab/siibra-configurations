@@ -1,6 +1,6 @@
 {
-	"@type": "siibra/feature/connectivitymatrix/v0.3",
-	"modality": "FunctionalConnectivity",
+	"@type": "siibra/feature/connectivitymatrix/v0.2",
+	"modality": "RestingState",
 	"paradigm": "Resting state (EmpCorrFC concatenated)",
 	"cohort": "HCP",
 	"parcellation": {
@@ -520,6 +520,5 @@
 		"Frontal-to-Occipital (GapMap) right",
 		"Frontal-to-Temporal-I (GapMap) right",
 		"Frontal-to-Temporal-II (GapMap) right"
-	],
-	"files_indexed_by": "subject"
+	]
 }

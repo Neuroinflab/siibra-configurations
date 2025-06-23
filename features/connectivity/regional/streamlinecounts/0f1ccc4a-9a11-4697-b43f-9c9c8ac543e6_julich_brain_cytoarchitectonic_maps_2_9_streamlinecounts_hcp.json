@@ -1,5 +1,5 @@
 {
-	"@type": "siibra/feature/connectivitymatrix/v0.3",
+	"@type": "siibra/feature/connectivitymatrix/v0.2",
 	"modality": "StreamlineCounts",
 	"paradigm": "",
 	"cohort": "HCP",
@@ -520,6 +520,5 @@
 		"Frontal-to-Occipital (GapMap) right",
 		"Frontal-to-Temporal-I (GapMap) right",
 		"Frontal-to-Temporal-II (GapMap) right"
-	],
-	"files_indexed_by": "subject"
+	]
 }

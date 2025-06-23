@@ -1,6 +1,6 @@
 {
-	"@type": "siibra/feature/connectivitymatrix/v0.3",
-	"modality": "TracingConnectivity",
+	"@type": "siibra/feature/connectivitymatrix/v0.2",
+	"modality": "Tracing",
 	"species": "Rattus norvegicus",
 	"cohort": "Orbital-Posterioparietal-Insular anterograde projections",
 	"parcellation": {
@@ -224,6 +224,5 @@
 		"Spinal trigeminal nucleus",
 		"Periventricular gray",
 		"Inferior olive"
-	],
-	"files_indexed_by": "subject"
+	]
 }
