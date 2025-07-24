@@ -7,7 +7,9 @@
 	"modality": "cytoarchitecture",
 	"@version": {
 		"name": "2.9",
-		"@prev": "minds/core/parcellationatlas/v1.0.0/94c1125b-b87e-45e4-901c-00daee7f2579"
+		"@prev": "minds/core/parcellationatlas/v1.0.0/94c1125b-b87e-45e4-901c-00daee7f2579",
+		"@next": "minds/core/parcellationatlas/v1.0.0/94c1125b-b87e-45e4-901c-00daee7f2579-300",
+		"collection": "Julich-Brain Atlas"
 	},
 	"species": "homo sapiens",
 	"regions": [
@@ -111,20 +113,7 @@
 											"children": [
 												{
 													"name": "LB (Amygdala) - left hemisphere",
-													"children": [
-														{
-															"name": "Bl (basolateral nucleus) - left hemisphere"
-														},
-														{
-															"name": "Bm (basomedial nucleus) - left hemisphere"
-														},
-														{
-															"name": "La (lateral nucleus) - left hemisphere"
-														},
-														{
-															"name": "Pl (paralaminar nucleus) - left hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "708df0fa-e9a4-4c23-bd85-8957f6d30faf",
 														"openminds/ParcellationEntityVersion": [
@@ -136,20 +125,7 @@
 												},
 												{
 													"name": "LB (Amygdala) - right hemisphere",
-													"children": [
-														{
-															"name": "Bl (basolateral nucleus) - right hemisphere"
-														},
-														{
-															"name": "Bm (basomedial nucleus) - right hemisphere"
-														},
-														{
-															"name": "La (lateral nucleus) - right hemisphere"
-														},
-														{
-															"name": "Pl (paralaminar nucleus) - right hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "708df0fa-e9a4-4c23-bd85-8957f6d30faf",
 														"openminds/ParcellationEntityVersion": [
@@ -178,23 +154,7 @@
 											"children": [
 												{
 													"name": "SF (Amygdala) - left hemisphere",
-													"children": [
-														{
-															"name": "APir (amygdalopiriform transition area) - left hemisphere"
-														},
-														{
-															"name": "AHid (amygdalohippocampal transition area, dorsal part) - left hemisphere"
-														},
-														{
-															"name": "AHiv (amygdalohippocampal transition area, ventral part) - left hemisphere"
-														},
-														{
-															"name": "VCod (ventral cortical nucleus, dorsal part) - left hemisphere"
-														},
-														{
-															"name": "VCov (ventral cortical nucleus, ventral part) - left hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "48929163-bf7b-4471-9f14-991c5225eced",
 														"openminds/ParcellationEntityVersion": [
@@ -206,23 +166,7 @@
 												},
 												{
 													"name": "SF (Amygdala) - right hemisphere",
-													"children": [
-														{
-															"name": "APir (amygdalopiriform transition area) - right hemisphere"
-														},
-														{
-															"name": "AHid (amygdalohippocampal transition area, dorsal part) - right hemisphere"
-														},
-														{
-															"name": "AHiv (amygdalohippocampal transition area, ventral part) - right hemisphere"
-														},
-														{
-															"name": "VCod (ventral cortical nucleus, dorsal part) - right hemisphere"
-														},
-														{
-															"name": "VCov (ventral cortical nucleus, ventral part) - right hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "48929163-bf7b-4471-9f14-991c5225eced",
 														"openminds/ParcellationEntityVersion": [
@@ -285,17 +229,7 @@
 											"children": [
 												{
 													"name": "IF (Amygdala) - left hemisphere",
-													"children": [
-														{
-															"name": "ice (intermediate central fiber masses) - left hemisphere"
-														},
-														{
-															"name": "iol (intermediate orolateral fiber masses) - left hemisphere"
-														},
-														{
-															"name": "ld (Lamella dorsalis) - left hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "5a1391c8-6056-40e4-a19b-3774df42bd07",
 														"openminds/ParcellationEntityVersion": [
@@ -307,17 +241,7 @@
 												},
 												{
 													"name": "IF (Amygdala) - right hemisphere",
-													"children": [
-														{
-															"name": "ice (intermediate central fiber masses) - right hemisphere"
-														},
-														{
-															"name": "iol (intermediate orolateral fiber masses) - right hemisphere"
-														},
-														{
-															"name": "ld (Lamella dorsalis) - right hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "5a1391c8-6056-40e4-a19b-3774df42bd07",
 														"openminds/ParcellationEntityVersion": [
@@ -341,14 +265,7 @@
 											"children": [
 												{
 													"name": "MF (Amygdala) - left hemisphere",
-													"children": [
-														{
-															"name": "icm (intermediate caudomedial fiber masses) - left hemisphere"
-														},
-														{
-															"name": "lm (Lamella medialis) - left hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "3741c788-9412-4b8e-9ab4-9ca2d3a715ca",
 														"openminds/ParcellationEntityVersion": [
@@ -360,14 +277,7 @@
 												},
 												{
 													"name": "MF (Amygdala) - right hemisphere",
-													"children": [
-														{
-															"name": "icm (intermediate caudomedial fiber masses) - right hemisphere"
-														},
-														{
-															"name": "lm (Lamella medialis) - right hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "3741c788-9412-4b8e-9ab4-9ca2d3a715ca",
 														"openminds/ParcellationEntityVersion": [
@@ -389,19 +299,6 @@
 									]
 								},
 								{
-									"name": "AStr (amygdalostriatal transition zone)",
-									"children": [
-										{
-											"name": "AStr (amygdalostriatal transition zone) - left hemisphere",
-											"children": []
-										},
-										{
-											"name": "AStr (amygdalostriatal transition zone) - right hemisphere",
-											"children": []
-										}
-									]
-								},
-								{
 									"name": "centromedial group",
 									"children": [
 										{
@@ -409,17 +306,7 @@
 											"children": [
 												{
 													"name": "CM (Amygdala) - left hemisphere",
-													"children": [
-														{
-															"name": "Ce (central nucleus) - left hemisphere"
-														},
-														{
-															"name": "Me (medial nucleus) - left hemisphere"
-														},
-														{
-															"name": "AAA (anterior amygdaloid area) - left hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "7aba8aef-6430-4fa7-ab54-8ecac558faed",
 														"openminds/ParcellationEntityVersion": [
@@ -431,17 +318,7 @@
 												},
 												{
 													"name": "CM (Amygdala) - right hemisphere",
-													"children": [
-														{
-															"name": "Ce (central nucleus) - right hemisphere"
-														},
-														{
-															"name": "Me (medial nucleus) - right hemisphere"
-														},
-														{
-															"name": "AAA (anterior amygdaloid area) - right hemisphere"
-														}
-													],
+													"children": [],
 													"ebrains": {
 														"minds/core/parcellationregion/v1.0.0": "7aba8aef-6430-4fa7-ab54-8ecac558faed",
 														"openminds/ParcellationEntityVersion": [
@@ -2446,28 +2323,6 @@
 													"77dfa64e-be54-4507-8e4e-05c6360b2a97"
 												]
 											}
-										},
-										{
-											"name": "MFG1",
-											"children": [
-												{
-													"name": "MFG1 - left hemisphere"
-												},
-												{
-													"name": "MFG1 - right hemisphere"
-												}
-											]
-										},
-										{
-											"name": "MFG2",
-											"children": [
-												{
-													"name": "MFG2 - left hemisphere"
-												},
-												{
-													"name": "MFG2 - right hemisphere"
-												}
-											]
 										}
 									]
 								},
@@ -2722,28 +2577,6 @@
 													"15b07561-1bd4-4137-83db-71a71d9f3886"
 												]
 											}
-										},
-										{
-											"name": "SFS1",
-											"children": [
-												{
-													"name": "SFS1 - left hemisphere"
-												},
-												{
-													"name": "SFS1 - right hemisphere"
-												}
-											]
-										},
-										{
-											"name": "SFS2",
-											"children": [
-												{
-													"name": "SFS2 - left hemisphere"
-												},
-												{
-													"name": "SFS2 - right hemisphere"
-												}
-											]
 										}
 									]
 								},
@@ -5765,17 +5598,7 @@
 											"children": [
 												{
 													"name": "CGM (Metathalamus) - left hemisphere",
-													"children": [
-														{
-															"name": "MGBd (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "MGBm (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "MGBv (Metathalamus) - left hemisphere"
-														}
-													],
+													"children": [],
 													"rgb": "#EE282D",
 													"ebrains": {
 														"openminds/ParcellationEntityVersion": [
@@ -5787,17 +5610,7 @@
 												},
 												{
 													"name": "CGM (Metathalamus) - right hemisphere",
-													"children": [
-														{
-															"name": "MGBd (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "MGBm (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "MGBv (Metathalamus) - right hemisphere"
-														}
-													],
+													"children": [],
 													"rgb": "#EE282D",
 													"ebrains": {
 														"openminds/ParcellationEntityVersion": [
@@ -5827,26 +5640,7 @@
 											"children": [
 												{
 													"name": "CGL (Metathalamus) - left hemisphere",
-													"children": [
-														{
-															"name": "CGL.lam1 (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "CGL.lam2 (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "CGL.lam3 (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "CGL.lam4 (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "CGL.lam5 (Metathalamus) - left hemisphere"
-														},
-														{
-															"name": "CGL.lam6 (Metathalamus) - left hemisphere"
-														}
-													],
+													"children": [],
 													"rgb": "#3F416B",
 													"ebrains": {
 														"openminds/ParcellationEntityVersion": [
@@ -5858,26 +5652,7 @@
 												},
 												{
 													"name": "CGL (Metathalamus) - right hemisphere",
-													"children": [
-														{
-															"name": "CGL.lam1 (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "CGL.lam2 (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "CGL.lam3 (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "CGL.lam4 (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "CGL.lam5 (Metathalamus) - right hemisphere"
-														},
-														{
-															"name": "CGL.lam6 (Metathalamus) - right hemisphere"
-														}
-													],
+													"children": [],
 													"rgb": "#3F416B",
 													"ebrains": {
 														"openminds/ParcellationEntityVersion": [

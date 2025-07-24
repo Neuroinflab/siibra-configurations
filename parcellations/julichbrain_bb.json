@@ -1,0 +1,1324 @@
+{
+	"@id": "minds/core/parcellationatlas/v1.0.0/94c1125b-b87e-45e4-901c-00daee7f2579-bb",
+	"@type": "siibra/parcellation/v0.0.1",
+	"name": "Julich-Brain Cytoarchitectonic Atlas (BigBrain)",
+	"shortName": "Julich-Brain BigBrain",
+	"description": "",
+	"modality": "cytoarchitecture",
+	"@version": {
+		"name": "BigBrain",
+		"collection": "Julich-Brain Atlas"
+	},
+	"species": "homo sapiens",
+	"regions": [
+		{
+			"name": "telencephalon",
+			"children": [
+				{
+					"name": "cerebral nuclei",
+					"children": [
+						{
+							"name": "amygdala",
+							"children": [
+								{
+									"name": "laterobasal group",
+									"children": [
+										{
+											"name": "LB (Amygdala)",
+											"children": [
+												{
+													"name": "LB (Amygdala) - left hemisphere",
+													"children": [
+														{
+															"name": "Bl (basolateral nucleus) - left hemisphere",
+															"rgb": "#B5F70C"
+														},
+														{
+															"name": "Bm (basomedial nucleus) - left hemisphere",
+															"rgb": "#FCFC03"
+														},
+														{
+															"name": "La (lateral nucleus) - left hemisphere",
+															"rgb": "#0CF70C"
+														},
+														{
+															"name": "Pl (paralaminar nucleus) - left hemisphere",
+															"rgb": "#B00C46"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "708df0fa-e9a4-4c23-bd85-8957f6d30faf"
+													},
+													"rgb": "#F3619A"
+												},
+												{
+													"name": "LB (Amygdala) - right hemisphere",
+													"children": [
+														{
+															"name": "Bl (basolateral nucleus) - right hemisphere",
+															"rgb": "#B5F70C"
+														},
+														{
+															"name": "Bm (basomedial nucleus) - right hemisphere",
+															"rgb": "#FCFC03"
+														},
+														{
+															"name": "La (lateral nucleus) - right hemisphere",
+															"rgb": "#0CF70C"
+														},
+														{
+															"name": "Pl (paralaminar nucleus) - right hemisphere",
+															"rgb": "#B00C46"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "708df0fa-e9a4-4c23-bd85-8957f6d30faf"
+													},
+													"rgb": "#F3619A"
+												}
+											],
+											"rgb": "#F3619A",
+											"ebrains": {
+												"openminds/ParcellationEntity": "84a771af-2922-433e-94a6-200a4594df87"
+											}
+										}
+									]
+								},
+								{
+									"name": "superficial group",
+									"children": [
+										{
+											"name": "SF (Amygdala)",
+											"children": [
+												{
+													"name": "SF (Amygdala) - left hemisphere",
+													"children": [
+														{
+															"name": "APir (amygdalopiriform transition area) - left hemisphere",
+															"rgb": "#9090E0"
+														},
+														{
+															"name": "AHid (amygdalohippocampal transition area, dorsal part) - left hemisphere",
+															"rgb": "#28D8F7"
+														},
+														{
+															"name": "AHiv (amygdalohippocampal transition area, ventral part) - left hemisphere",
+															"rgb": "#0258F7"
+														},
+														{
+															"name": "VCod (ventral cortical nucleus, dorsal part) - left hemisphere",
+															"rgb": "#E00CF7"
+														},
+														{
+															"name": "VCov (ventral cortical nucleus, ventral part) - left hemisphere",
+															"rgb": "#F7C80C"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "48929163-bf7b-4471-9f14-991c5225eced"
+													},
+													"rgb": "#58FBF4"
+												},
+												{
+													"name": "SF (Amygdala) - right hemisphere",
+													"children": [
+														{
+															"name": "APir (amygdalopiriform transition area) - right hemisphere",
+															"rgb": "#9090E0"
+														},
+														{
+															"name": "AHid (amygdalohippocampal transition area, dorsal part) - right hemisphere",
+															"rgb": "#28D8F7"
+														},
+														{
+															"name": "AHiv (amygdalohippocampal transition area, ventral part) - right hemisphere",
+															"rgb": "#0258F7"
+														},
+														{
+															"name": "VCod (ventral cortical nucleus, dorsal part) - right hemisphere",
+															"rgb": "#E00CF7"
+														},
+														{
+															"name": "VCov (ventral cortical nucleus, ventral part) - right hemisphere",
+															"rgb": "#F7C80C"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "48929163-bf7b-4471-9f14-991c5225eced"
+													},
+													"rgb": "#58FBF4"
+												}
+											],
+											"rgb": "#58FBF4",
+											"ebrains": {
+												"openminds/ParcellationEntity": "23cd08a1-cf20-4920-a286-e38bfb6a2265"
+											}
+										}
+									]
+								},
+								{
+									"name": "fiber masses",
+									"children": [
+										{
+											"name": "VTM (Amygdala)",
+											"children": [
+												{
+													"name": "VTM (Amygdala) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a964e6e6-8014-41a2-b975-754d75cbb6f2"
+													},
+													"rgb": "#559CB1"
+												},
+												{
+													"name": "VTM (Amygdala) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a964e6e6-8014-41a2-b975-754d75cbb6f2"
+													},
+													"rgb": "#559CB1"
+												}
+											],
+											"rgb": "#559CB1",
+											"ebrains": {
+												"openminds/ParcellationEntity": "3cd2738d-3b8c-46dc-ac4e-cd207b591199"
+											}
+										},
+										{
+											"name": "IF (Amygdala)",
+											"children": [
+												{
+													"name": "IF (Amygdala) - left hemisphere",
+													"children": [
+														{
+															"name": "ice (intermediate central fiber masses) - left hemisphere",
+															"rgb": "#D0F2F1"
+														},
+														{
+															"name": "iol (intermediate orolateral fiber masses) - left hemisphere",
+															"rgb": "#FFEDE8"
+														},
+														{
+															"name": "ld (Lamella dorsalis) - left hemisphere",
+															"rgb": "#D8F2D0"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5a1391c8-6056-40e4-a19b-3774df42bd07"
+													},
+													"rgb": "#C8C8C8"
+												},
+												{
+													"name": "IF (Amygdala) - right hemisphere",
+													"children": [
+														{
+															"name": "ice (intermediate central fiber masses) - right hemisphere",
+															"rgb": "#D0F2F1"
+														},
+														{
+															"name": "iol (intermediate orolateral fiber masses) - right hemisphere",
+															"rgb": "#FFEDE8"
+														},
+														{
+															"name": "ld (Lamella dorsalis) - right hemisphere",
+															"rgb": "#D8F2D0"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5a1391c8-6056-40e4-a19b-3774df42bd07"
+													},
+													"rgb": "#C8C8C8"
+												}
+											],
+											"rgb": "#C8C8C8",
+											"ebrains": {
+												"openminds/ParcellationEntity": "163e9ecb-9fcf-4a1c-8d50-d0bb09fd5b8c"
+											}
+										},
+										{
+											"name": "MF (Amygdala)",
+											"children": [
+												{
+													"name": "MF (Amygdala) - left hemisphere",
+													"children": [
+														{
+															"name": "icm (intermediate caudomedial fiber masses) - left hemisphere",
+															"rgb": "#FCFCD4"
+														},
+														{
+															"name": "lm (Lamella medialis) - left hemisphere",
+															"rgb": "#F2D6AE"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "3741c788-9412-4b8e-9ab4-9ca2d3a715ca"
+													},
+													"rgb": "#01AA03"
+												},
+												{
+													"name": "MF (Amygdala) - right hemisphere",
+													"children": [
+														{
+															"name": "icm (intermediate caudomedial fiber masses) - right hemisphere",
+															"rgb": "#FCFCD4"
+														},
+														{
+															"name": "lm (Lamella medialis) - right hemisphere",
+															"rgb": "#F2D6AE"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "3741c788-9412-4b8e-9ab4-9ca2d3a715ca"
+													},
+													"rgb": "#01AA03"
+												}
+											],
+											"rgb": "#01AA03",
+											"ebrains": {
+												"openminds/ParcellationEntity": "12ce6ef0-5a5e-413b-8acd-ced8e023ddc7"
+											}
+										}
+									]
+								},
+								{
+									"name": "AStr (amygdalostriatal transition zone)",
+									"children": [
+										{
+											"name": "AStr (amygdalostriatal transition zone) - left hemisphere",
+											"children": [],
+											"rgb": "#47091F"
+										},
+										{
+											"name": "AStr (amygdalostriatal transition zone) - right hemisphere",
+											"children": [],
+											"rgb": "#47091F"
+										}
+									]
+								},
+								{
+									"name": "centromedial group",
+									"children": [
+										{
+											"name": "CM (Amygdala)",
+											"children": [
+												{
+													"name": "CM (Amygdala) - left hemisphere",
+													"children": [
+														{
+															"name": "Ce (central nucleus) - left hemisphere",
+															"rgb": "#FF0841"
+														},
+														{
+															"name": "Me (medial nucleus) - left hemisphere",
+															"rgb": "#917D17"
+														},
+														{
+															"name": "AAA (anterior amygdaloid area) - left hemisphere",
+															"rgb": "#55AB5E"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "7aba8aef-6430-4fa7-ab54-8ecac558faed"
+													},
+													"rgb": "#276A00"
+												},
+												{
+													"name": "CM (Amygdala) - right hemisphere",
+													"children": [
+														{
+															"name": "Ce (central nucleus) - right hemisphere",
+															"rgb": "#FF0841"
+														},
+														{
+															"name": "Me (medial nucleus) - right hemisphere",
+															"rgb": "#917D17"
+														},
+														{
+															"name": "AAA (anterior amygdaloid area) - right hemisphere",
+															"rgb": "#55AB5E"
+														}
+													],
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "7aba8aef-6430-4fa7-ab54-8ecac558faed"
+													},
+													"rgb": "#276A00"
+												}
+											],
+											"rgb": "#276A00",
+											"ebrains": {
+												"openminds/ParcellationEntity": "2976e533-2d73-42a1-918b-bc4ae4f16243"
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "cerebral cortex",
+					"children": [
+						{
+							"name": "parietal lobe",
+							"children": [
+								{
+									"name": "parieto-occipital sulcus",
+									"children": [
+										{
+											"name": "Area hPO1 (POS)",
+											"children": [
+												{
+													"name": "Area hPO1 (POS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a78998c2-99d4-4738-bbda-82a317f713f1"
+													},
+													"rgb": "#99E8EB"
+												},
+												{
+													"name": "Area hPO1 (POS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a78998c2-99d4-4738-bbda-82a317f713f1"
+													},
+													"rgb": "#99E8EB"
+												}
+											],
+											"rgb": "#99E8EB",
+											"ebrains": {
+												"openminds/ParcellationEntity": "c5462960-2a33-48cc-84e6-9266e95a587f"
+											}
+										}
+									]
+								},
+								{
+									"name": "intraparietal sulcus",
+									"children": [
+										{
+											"name": "Area hIP7 (IPS)",
+											"children": [
+												{
+													"name": "Area hIP7 (IPS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "9c6c3c96-8129-4e0e-aa22-a0fb435aab45"
+													},
+													"rgb": "#47C4DA"
+												},
+												{
+													"name": "Area hIP7 (IPS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "9c6c3c96-8129-4e0e-aa22-a0fb435aab45"
+													},
+													"rgb": "#47C4DA"
+												}
+											],
+											"rgb": "#47C4DA",
+											"ebrains": {
+												"openminds/ParcellationEntity": "b32a69b4-5f0f-4913-8577-12aae775a56f"
+											}
+										},
+										{
+											"name": "Area hIP4 (IPS)",
+											"children": [
+												{
+													"name": "Area hIP4 (IPS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5875bfe2-99ca-4e50-bce2-61c201c3dd54"
+													},
+													"rgb": "#FE34B8"
+												},
+												{
+													"name": "Area hIP4 (IPS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5875bfe2-99ca-4e50-bce2-61c201c3dd54"
+													},
+													"rgb": "#FE34B8"
+												}
+											],
+											"rgb": "#FE34B8",
+											"ebrains": {
+												"openminds/ParcellationEntity": "72d20dc4-9d1c-4f20-8fca-90d62a8df505"
+											}
+										},
+										{
+											"name": "Area hIP5 (IPS)",
+											"children": [
+												{
+													"name": "Area hIP5 (IPS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "f9717dec-0310-4078-a4ae-294170b4fb37"
+													},
+													"rgb": "#D957D2"
+												},
+												{
+													"name": "Area hIP5 (IPS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "f9717dec-0310-4078-a4ae-294170b4fb37"
+													},
+													"rgb": "#D957D2"
+												}
+											],
+											"rgb": "#D957D2",
+											"ebrains": {
+												"openminds/ParcellationEntity": "02f2f3dc-ebb7-4ea1-af7a-0af7d6967852"
+											}
+										},
+										{
+											"name": "Area hIP6 (IPS)",
+											"children": [
+												{
+													"name": "Area hIP6 (IPS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "b9975f8e-f484-4e82-883a-5fd765855ae0"
+													},
+													"rgb": "#EDE925"
+												},
+												{
+													"name": "Area hIP6 (IPS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "b9975f8e-f484-4e82-883a-5fd765855ae0"
+													},
+													"rgb": "#EDE925"
+												}
+											],
+											"rgb": "#EDE925",
+											"ebrains": {
+												"openminds/ParcellationEntity": "6bbec96a-cb61-4890-a984-7c8532379a49"
+											}
+										},
+										{
+											"name": "Area hIP8 (IPS)",
+											"children": [
+												{
+													"name": "Area hIP8 (IPS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a2c1acc7-7fdc-4fbd-90ee-729eda7fdff3"
+													},
+													"rgb": "#DF6D03"
+												},
+												{
+													"name": "Area hIP8 (IPS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a2c1acc7-7fdc-4fbd-90ee-729eda7fdff3"
+													},
+													"rgb": "#DF6D03"
+												}
+											],
+											"rgb": "#DF6D03",
+											"ebrains": {
+												"openminds/ParcellationEntity": "da155dad-7504-462f-8807-00acbb0247bd"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "occipital lobe",
+							"children": [
+								{
+									"name": "dorsal occipital cortex",
+									"children": [
+										{
+											"name": "Area hOc6 (POS)",
+											"children": [
+												{
+													"name": "Area hOc6 (POS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "d72e0210-a910-4b15-bcaf-80c3433cd3e0"
+													},
+													"rgb": "#EF421A"
+												},
+												{
+													"name": "Area hOc6 (POS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "d72e0210-a910-4b15-bcaf-80c3433cd3e0"
+													},
+													"rgb": "#EF421A"
+												}
+											],
+											"rgb": "#EF421A",
+											"ebrains": {
+												"openminds/ParcellationEntity": "8788b2b8-b922-4ec6-af81-9e1c13c9164e"
+											}
+										}
+									]
+								},
+								{
+									"name": "ventral occipital cortex",
+									"children": [
+										{
+											"name": "Area hOc3v (LingG)",
+											"children": [
+												{
+													"name": "Area hOc3v (LingG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "0d6392fd-b905-4bc3-bac9-fc44d8990a30"
+													},
+													"rgb": "#53B39B"
+												},
+												{
+													"name": "Area hOc3v (LingG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "0d6392fd-b905-4bc3-bac9-fc44d8990a30"
+													},
+													"rgb": "#53B39B"
+												}
+											],
+											"rgb": "#53B39B",
+											"ebrains": {
+												"openminds/ParcellationEntity": "cfa362c7-e2fc-4c3a-93d1-d587a1d8da65"
+											}
+										}
+									]
+								},
+								{
+									"name": "occipital cortex",
+									"children": [
+										{
+											"name": "Area hOc2 (V2, 18)",
+											"children": [
+												{
+													"name": "Area hOc2 (V2, 18) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "04674a3c-bb3a-495e-a466-206355e630bd"
+													},
+													"rgb": "#546E16"
+												},
+												{
+													"name": "Area hOc2 (V2, 18) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "04674a3c-bb3a-495e-a466-206355e630bd"
+													},
+													"rgb": "#546E16"
+												}
+											],
+											"rgb": "#546E16",
+											"ebrains": {
+												"openminds/ParcellationEntity": "a9f05023-7239-470d-b4bc-4c553ef24fbc"
+											}
+										},
+										{
+											"name": "Area hOc1 (V1, 17, CalcS)",
+											"children": [
+												{
+													"name": "Area hOc1 (V1, 17, CalcS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5151ab8f-d8cb-4e67-a449-afe2a41fb007"
+													},
+													"rgb": "#BE8493"
+												},
+												{
+													"name": "Area hOc1 (V1, 17, CalcS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "5151ab8f-d8cb-4e67-a449-afe2a41fb007"
+													},
+													"rgb": "#BE8493"
+												}
+											],
+											"rgb": "#BE8493",
+											"ebrains": {
+												"openminds/ParcellationEntity": "9f478e0a-3b2d-4324-a817-cc22f73acdc6"
+											}
+										}
+									]
+								},
+								{
+									"name": "lateral occipital cortex",
+									"children": [
+										{
+											"name": "Area hOc5 (LOC)",
+											"children": [
+												{
+													"name": "Area hOc5 (LOC) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "b40afb5a-e6a1-47b6-8a3e-1f8a20fbf99a"
+													},
+													"rgb": "#FF0000"
+												},
+												{
+													"name": "Area hOc5 (LOC) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "b40afb5a-e6a1-47b6-8a3e-1f8a20fbf99a"
+													},
+													"rgb": "#FF0000"
+												}
+											],
+											"rgb": "#FF0000",
+											"ebrains": {
+												"openminds/ParcellationEntity": "59937c5e-0ad5-43a5-9f07-747801474dfc"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "frontal lobe",
+							"children": [
+								{
+									"name": "inferior frontal sulcus",
+									"children": [
+										{
+											"name": "Area IFJ1 (IFS,PreCS)",
+											"children": [
+												{
+													"name": "Area IFJ1 (IFS,PreCS) - left hemisphere",
+													"rgb": "#E500A0",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFJ1 (IFS,PreCS) - right hemisphere",
+													"rgb": "#E500A0",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#E500A0",
+											"ebrains": {
+												"openminds/ParcellationEntity": "1c9745c5-32f4-45a7-8f0c-8384d7f83271"
+											}
+										},
+										{
+											"name": "Area IFS4 (IFS)",
+											"children": [
+												{
+													"name": "Area IFS4 (IFS) - left hemisphere",
+													"rgb": "#1F497D",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFS4 (IFS) - right hemisphere",
+													"rgb": "#1F497D",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#1F497D",
+											"ebrains": {
+												"openminds/ParcellationEntity": "efebfcda-c167-41c9-8f5a-78f25508610e"
+											}
+										},
+										{
+											"name": "Area IFS2 (IFS)",
+											"children": [
+												{
+													"name": "Area IFS2 (IFS) - left hemisphere",
+													"rgb": "#FF0000",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFS2 (IFS) - right hemisphere",
+													"rgb": "#FF0000",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#FF0000",
+											"ebrains": {
+												"openminds/ParcellationEntity": "2df973b1-7b20-41db-a97c-806a914a17a7"
+											}
+										},
+										{
+											"name": "Area IFS1 (IFS)",
+											"children": [
+												{
+													"name": "Area IFS1 (IFS) - left hemisphere",
+													"rgb": "#7030A0",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFS1 (IFS) - right hemisphere",
+													"rgb": "#7030A0",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#7030A0",
+											"ebrains": {
+												"openminds/ParcellationEntity": "2bde320f-0c94-45a9-80bc-8fb6becf7b32"
+											}
+										},
+										{
+											"name": "Area IFS3 (IFS)",
+											"children": [
+												{
+													"name": "Area IFS3 (IFS) - left hemisphere",
+													"rgb": "#028032",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFS3 (IFS) - right hemisphere",
+													"rgb": "#028032",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#028032",
+											"ebrains": {
+												"openminds/ParcellationEntity": "b75d0fba-b09f-4e2d-a4a1-573630105fb3"
+											}
+										},
+										{
+											"name": "Area IFJ2 (IFS,PreCS)",
+											"children": [
+												{
+													"name": "Area IFJ2 (IFS,PreCS) - left hemisphere",
+													"rgb": "#DF6A16",
+													"ebrains": {}
+												},
+												{
+													"name": "Area IFJ2 (IFS,PreCS) - right hemisphere",
+													"rgb": "#DF6A16",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#DF6A16",
+											"ebrains": {
+												"openminds/ParcellationEntity": "d5399b6e-2e96-49f4-bffd-7b07a469df44"
+											}
+										}
+									]
+								},
+								{
+									"name": "middle frontal gyrus",
+									"children": [
+										{
+											"name": "MFG1",
+											"children": [
+												{
+													"name": "MFG1 - left hemisphere",
+													"rgb": "#622181"
+												},
+												{
+													"name": "MFG1 - right hemisphere",
+													"rgb": "#622181"
+												}
+											]
+										},
+										{
+											"name": "MFG2",
+											"children": [
+												{
+													"name": "MFG2 - left hemisphere",
+													"rgb": "#FFEC00"
+												},
+												{
+													"name": "MFG2 - right hemisphere",
+													"rgb": "#FFEC00"
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "dorsal precentral gyrus",
+									"children": [
+										{
+											"name": "Area 6d2 (PreCG)",
+											"children": [
+												{
+													"name": "Area 6d2 (PreCG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "963c5281-67df-4d41-9b91-60b31cf150c0"
+													},
+													"rgb": "#AA97B4"
+												},
+												{
+													"name": "Area 6d2 (PreCG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "963c5281-67df-4d41-9b91-60b31cf150c0"
+													},
+													"rgb": "#AA97B4"
+												}
+											],
+											"rgb": "#AA97B4",
+											"ebrains": {
+												"openminds/ParcellationEntity": "582fa4cb-a923-46b8-a901-37d788015c61"
+											}
+										},
+										{
+											"name": "Area 6d1 (PreCG)",
+											"children": [
+												{
+													"name": "Area 6d1 (PreCG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a802f3dc-b7e5-48b7-9845-832a6e6f9b1c"
+													},
+													"rgb": "#2D211B"
+												},
+												{
+													"name": "Area 6d1 (PreCG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "a802f3dc-b7e5-48b7-9845-832a6e6f9b1c"
+													},
+													"rgb": "#2D211B"
+												}
+											],
+											"rgb": "#2D211B",
+											"ebrains": {
+												"openminds/ParcellationEntity": "7e13f431-78ab-4b01-9f9e-786958a00885"
+											}
+										}
+									]
+								},
+								{
+									"name": "posterior medial superior frontal gyrus",
+									"children": [
+										{
+											"name": "Area 6ma (preSMA, mesial SFG)",
+											"children": [
+												{
+													"name": "Area 6ma (preSMA, mesial SFG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "07b4c6a1-8a24-4f88-8f73-b2ea06e1c2f3"
+													},
+													"rgb": "#CC6CDE"
+												},
+												{
+													"name": "Area 6ma (preSMA, mesial SFG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "07b4c6a1-8a24-4f88-8f73-b2ea06e1c2f3"
+													},
+													"rgb": "#CC6CDE"
+												}
+											],
+											"rgb": "#CC6CDE",
+											"ebrains": {
+												"openminds/ParcellationEntity": "9bafc198-c5b5-481d-adaf-c80fb952a536"
+											}
+										}
+									]
+								},
+								{
+									"name": "superior frontal sulcus",
+									"children": [
+										{
+											"name": "Area 6d3 (SFS)",
+											"children": [
+												{
+													"name": "Area 6d3 (SFS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "266c1ada-1840-462f-8223-7ff2df457552"
+													},
+													"rgb": "#37EF15"
+												},
+												{
+													"name": "Area 6d3 (SFS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "266c1ada-1840-462f-8223-7ff2df457552"
+													},
+													"rgb": "#37EF15"
+												}
+											],
+											"rgb": "#37EF15",
+											"ebrains": {
+												"openminds/ParcellationEntity": "7d69982d-4dc1-436e-ab86-7496315ea965"
+											}
+										},
+										{
+											"name": "SFS1",
+											"children": [
+												{
+													"name": "SFS1 - left hemisphere",
+													"rgb": "#00A5E2"
+												},
+												{
+													"name": "SFS1 - right hemisphere",
+													"rgb": "#00A5E2"
+												}
+											]
+										},
+										{
+											"name": "SFS2",
+											"children": [
+												{
+													"name": "SFS2 - left hemisphere",
+													"rgb": "#F29400"
+												},
+												{
+													"name": "SFS2 - right hemisphere",
+													"rgb": "#F29400"
+												}
+											]
+										}
+									]
+								},
+								{
+									"name": "mesial precentral gyrus",
+									"children": [
+										{
+											"name": "Area 6mp (SMA, mesial SFG)",
+											"children": [
+												{
+													"name": "Area 6mp (SMA, mesial SFG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "def99e8e-ce8f-4a62-bd5d-739948c4b010"
+													},
+													"rgb": "#4B5F57"
+												},
+												{
+													"name": "Area 6mp (SMA, mesial SFG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "def99e8e-ce8f-4a62-bd5d-739948c4b010"
+													},
+													"rgb": "#4B5F57"
+												}
+											],
+											"rgb": "#4B5F57",
+											"ebrains": {
+												"openminds/ParcellationEntity": "6f1f7a43-1c5c-4e0e-9748-daf834aff4bf"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "temporal lobe",
+							"children": [
+								{
+									"name": "superior temporal sulcus",
+									"children": [
+										{
+											"name": "Area STS2 (STS)",
+											"children": [
+												{
+													"name": "Area STS2 (STS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "278fc30f-2e24-4046-856b-95dfaf561635"
+													},
+													"rgb": "#3E757B"
+												},
+												{
+													"name": "Area STS2 (STS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "278fc30f-2e24-4046-856b-95dfaf561635"
+													},
+													"rgb": "#3E757B"
+												}
+											],
+											"rgb": "#3E757B",
+											"ebrains": {
+												"openminds/ParcellationEntity": "532e33ed-2878-46f0-8363-cf2b0632bb1c"
+											}
+										},
+										{
+											"name": "Area STS1 (STS)",
+											"children": [
+												{
+													"name": "Area STS1 (STS) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "68784b66-ff15-4b09-b28a-a2146c0f8907"
+													},
+													"rgb": "#CDE404"
+												},
+												{
+													"name": "Area STS1 (STS) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "68784b66-ff15-4b09-b28a-a2146c0f8907"
+													},
+													"rgb": "#CDE404"
+												}
+											],
+											"rgb": "#CDE404",
+											"ebrains": {
+												"openminds/ParcellationEntity": "d597f390-8c98-4dfb-acd6-ffb2393fee0f"
+											}
+										}
+									]
+								},
+								{
+									"name": "superior temporal gyrus",
+									"children": [
+										{
+											"name": "Area TE 3 (STG)",
+											"children": [
+												{
+													"name": "Area TE 3 (STG) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "7e1a3291-efdc-4ca6-a3d0-6c496c34639f"
+													},
+													"rgb": "#9F686C"
+												},
+												{
+													"name": "Area TE 3 (STG) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "7e1a3291-efdc-4ca6-a3d0-6c496c34639f"
+													},
+													"rgb": "#9F686C"
+												}
+											],
+											"rgb": "#9F686C",
+											"ebrains": {
+												"openminds/ParcellationEntity": "8fab6ff0-520a-4aa9-8b87-9fdae0834e1b"
+											}
+										}
+									]
+								},
+								{
+									"name": "Heschl's gyrus",
+									"children": [
+										{
+											"name": "Area TE 1.2 (HESCHL)",
+											"children": [
+												{
+													"name": "Area TE 1.2 (HESCHL) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "677cd48c-70fa-4bbd-9f0a-ffdc7744bc0f"
+													},
+													"rgb": "#CAFBC0"
+												},
+												{
+													"name": "Area TE 1.2 (HESCHL) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "677cd48c-70fa-4bbd-9f0a-ffdc7744bc0f"
+													},
+													"rgb": "#CAFBC0"
+												}
+											],
+											"rgb": "#CAFBC0",
+											"ebrains": {
+												"openminds/ParcellationEntity": "513c4a59-7fa3-4cd9-88f9-d6e5ec92170f"
+											}
+										},
+										{
+											"name": "Area TE 1.1 (HESCHL)",
+											"children": [
+												{
+													"name": "Area TE 1.1 (HESCHL) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "e2969911-77eb-4b21-af70-216cab5285b1"
+													},
+													"rgb": "#087144"
+												},
+												{
+													"name": "Area TE 1.1 (HESCHL) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "e2969911-77eb-4b21-af70-216cab5285b1"
+													},
+													"rgb": "#087144"
+												}
+											],
+											"rgb": "#087144",
+											"ebrains": {
+												"openminds/ParcellationEntity": "2c71ce94-5230-4f6a-ad35-0161b37db008"
+											}
+										},
+										{
+											"name": "Area TE 1.0 (HESCHL)",
+											"children": [
+												{
+													"name": "Area TE 1.0 (HESCHL) - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "13e21153-2ba8-4212-b172-8894f1012225"
+													},
+													"rgb": "#FC54DE"
+												},
+												{
+													"name": "Area TE 1.0 (HESCHL) - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "13e21153-2ba8-4212-b172-8894f1012225"
+													},
+													"rgb": "#FC54DE"
+												}
+											],
+											"rgb": "#FC54DE",
+											"ebrains": {
+												"openminds/ParcellationEntity": "1fcabcfd-b3e4-4b66-9366-1182997131c9"
+											}
+										}
+									]
+								}
+							]
+						},
+						{
+							"name": "limbic lobe",
+							"children": [
+								{
+									"name": "hippocampal formation",
+									"children": [
+										{
+											"name": "Entorhinal Cortex",
+											"children": [
+												{
+													"name": "Entorhinal Cortex - left hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "030827d4-e0d1-4406-b71f-3f58dc2f9cca"
+													},
+													"rgb": "#239FD6"
+												},
+												{
+													"name": "Entorhinal Cortex - right hemisphere",
+													"ebrains": {
+														"minds/core/parcellationregion/v1.0.0": "030827d4-e0d1-4406-b71f-3f58dc2f9cca"
+													},
+													"rgb": "#239FD6"
+												}
+											],
+											"rgb": "#239FD6",
+											"ebrains": {
+												"openminds/ParcellationEntity": "33f96661-6c95-4243-82fd-56df5d11048b"
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "diencephalon",
+			"children": [
+				{
+					"name": "thalamus",
+					"children": [
+						{
+							"name": "",
+							"children": [
+								{
+									"name": "medial geniculate body",
+									"children": [
+										{
+											"name": "CGM (Metathalamus)",
+											"children": [
+												{
+													"name": "CGM (Metathalamus) - left hemisphere",
+													"children": [
+														{
+															"name": "MGBd (Metathalamus) - left hemisphere",
+															"rgb": "#A88476"
+														},
+														{
+															"name": "MGBm (Metathalamus) - left hemisphere",
+															"rgb": "#CE8E8C"
+														},
+														{
+															"name": "MGBv (Metathalamus) - left hemisphere",
+															"rgb": "#E45454"
+														}
+													],
+													"rgb": "#EE282D",
+													"ebrains": {}
+												},
+												{
+													"name": "CGM (Metathalamus) - right hemisphere",
+													"children": [
+														{
+															"name": "MGBd (Metathalamus) - right hemisphere",
+															"rgb": "#A88476"
+														},
+														{
+															"name": "MGBm (Metathalamus) - right hemisphere",
+															"rgb": "#CE8E8C"
+														},
+														{
+															"name": "MGBv (Metathalamus) - right hemisphere",
+															"rgb": "#E45454"
+														}
+													],
+													"rgb": "#EE282D",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#EE282D",
+											"ebrains": {
+												"openminds/ParcellationEntity": "ed4ed9de-b0a4-4469-aea1-9b6fb56bf509"
+											}
+										}
+									]
+								},
+								{
+									"name": "lateral geniculate body",
+									"children": [
+										{
+											"name": "CGL (Metathalamus)",
+											"children": [
+												{
+													"name": "CGL (Metathalamus) - left hemisphere",
+													"children": [
+														{
+															"name": "CGL.lam1 (Metathalamus) - left hemisphere",
+															"rgb": "#222E9E"
+														},
+														{
+															"name": "CGL.lam2 (Metathalamus) - left hemisphere",
+															"rgb": "#4D9EDF"
+														},
+														{
+															"name": "CGL.lam3 (Metathalamus) - left hemisphere",
+															"rgb": "#4CA6A6"
+														},
+														{
+															"name": "CGL.lam4 (Metathalamus) - left hemisphere",
+															"rgb": "#81CBB2"
+														},
+														{
+															"name": "CGL.lam5 (Metathalamus) - left hemisphere",
+															"rgb": "#A5DDD4"
+														},
+														{
+															"name": "CGL.lam6 (Metathalamus) - left hemisphere",
+															"rgb": "#E4E0D4"
+														}
+													],
+													"rgb": "#3F416B",
+													"ebrains": {}
+												},
+												{
+													"name": "CGL (Metathalamus) - right hemisphere",
+													"children": [
+														{
+															"name": "CGL.lam1 (Metathalamus) - right hemisphere",
+															"rgb": "#222E9E"
+														},
+														{
+															"name": "CGL.lam2 (Metathalamus) - right hemisphere",
+															"rgb": "#4D9EDF"
+														},
+														{
+															"name": "CGL.lam3 (Metathalamus) - right hemisphere",
+															"rgb": "#4CA6A6"
+														},
+														{
+															"name": "CGL.lam4 (Metathalamus) - right hemisphere",
+															"rgb": "#81CBB2"
+														},
+														{
+															"name": "CGL.lam5 (Metathalamus) - right hemisphere",
+															"rgb": "#A5DDD4"
+														},
+														{
+															"name": "CGL.lam6 (Metathalamus) - right hemisphere",
+															"rgb": "#E4E0D4"
+														}
+													],
+													"rgb": "#3F416B",
+													"ebrains": {}
+												}
+											],
+											"rgb": "#3F416B",
+											"ebrains": {
+												"openminds/ParcellationEntity": "90012378-6b9c-4a9d-a972-45ba7090dc40"
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"ebrains": {
+		"openminds/Species": "97c070c6-8e1f-4ee8-9d28-18c7945921dd",
+		"openminds/Dataset": "5a16d948-8d1c-400c-b797-8a7ad29944b2",
+		"openminds/BrainAtlasVersion": [
+			"7bcfb9b4-597e-4b6d-bfc0-937e0035155b",
+			"215d2ad0-0560-41af-9186-016d17917a6b",
+			"ff49f918-4015-4e42-b5ff-168a77cf3e7a",
+			"56e7326f-b9cf-4a51-8a78-5440242e780b"
+		],
+		"openminds/DatasetVersion": "a8932c7e-063c-4131-ab96-996d843998e9"
+	},
+	"publications": [
+		{
+			"citation": "Amunts, K., Mohlberg, H., Bludau, S., Zilles, K. (2020). Julich-Brain \u2013 A 3D probabilistic atlas of human brain\u2019s cytoarchitecture. Science 369, 988-992",
+			"url": "https://doi.org/10.1126/science.abb4588"
+		}
+	]
+}
