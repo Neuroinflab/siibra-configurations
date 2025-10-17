@@ -14,6 +14,11 @@
 			"providers": {
 				"neuroglancer/precomputed": "https://data-proxy.ebrains.eu/api/v1/buckets/marmoset-nencki-monash-template/segmentations",
 				"neuroglancer/precompmesh": "https://data-proxy.ebrains.eu/api/v1/buckets/marmoset-nencki-monash-template/segmentations"
+			},
+			"ebrains": {
+				"minds/core/species/v1.0.0": "0ea4e6ba-2681-4f7d-9fa9-49b915caaac9",
+				"openminds/Species": "627bac2f-2b4c-4f2d-ae4e-9373a7f430f2",
+				"openminds/DatasetVersion": "0b9b952a-e1bf-404c-8777-fe2ef6bfafa8"
 			}
 		}
 	],
